@@ -60,3 +60,7 @@ cv2.imwrite(circled_path, img)
 # Close all windows
 cv2.destroyAllWindows()
 
+
+###  green/(blue+green+red)
+
+### Add light/weather data from the UC Davis weather stations for the final datasheet.
